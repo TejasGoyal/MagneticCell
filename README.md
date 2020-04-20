@@ -1,5 +1,6 @@
 # MagneticCell
 Magnetic Cell MatLab Graph.
+
 I worked on this project during winter 2018.
 The team of three - College Professor, Research Student and me - worked on this project.
 I was assigned the task to develop a code for optimized magnetic field in the setup.
